@@ -44,13 +44,10 @@
 ## 📞 &nbsp; Connct Me 
 
 <p align="center">
-  <a href="https://mortezabaghfar/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
+  <a href="https://instagram.com/morteza.offical.20/">
+    <img src="https://img.shields.io/badge/Instagram-@mortezabaghfar2005?style=flat&logo=instagram" />
   </a>
-  <a href="https://instagram.com/rad_front/">
-    <img src="https://img.shields.io/badge/Instagram-@morteza.offical.20?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@mortezabaghfar?style=flat&logo=telegram" />
+  <a href="https://t.me/mortezabaghfar/">
+    <img src="https://img.shields.io/badge/Telegram-@mortezabaghfar2005?style=flat&logo=telegram" />
   </a>
 </p>

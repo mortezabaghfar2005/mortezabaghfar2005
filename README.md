@@ -1,7 +1,5 @@
 # Hi there I Am Morteza Baghfar👋
-
-<!--
-**mortezabaghfar2005/mortezabaghfar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am studying computer engineering at Ahvaz Azad University 👨‍🎓
 
 Here are some ideas to get you started:
 

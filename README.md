@@ -30,16 +30,15 @@
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 - 🙋‍♂️ Activity &nbsp;
-  <img align="center" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
-  <img align="center" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <br>
 
 ## ⚡️ &nbsp; Github Stats
 
 <a href="https://github.com/mortezabaghfar2005">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mortezabaghfar2005&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezabaghfar2005" />
 </a>
 
-<br>
 
 ## 📞 &nbsp; Connct Me 

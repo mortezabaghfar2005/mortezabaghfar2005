@@ -43,7 +43,7 @@
 
 ## 📞 &nbsp; Connct Me 
 
-<p align="center">
+<p align="left">
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mortezabaghfar2005/mortezabaghfar2005/2a068034c225edbfc2afb4d241dd36b436746865/Instagram_logo_2022.svg" width="32" height="32" /></a>
   <a href="https://t.me/mortezabaghfar/">
     <img src="https://github.com/mortezabaghfar2005/mortezabaghfar2005/blob/main/telegrom.png?raw=true" width="32" height="32" />

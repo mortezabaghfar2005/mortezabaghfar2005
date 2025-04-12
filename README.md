@@ -1,7 +1,7 @@
 # Hi there I Am Morteza Baghfar👋
 
 ### About Me 👨‍💻
-- I am studying computer engineering at Ahvaz Azad University 👨‍🎓
+- I Am Studying Computer Engineering At Ahvaz Azad University 👨‍🎓
 
 Here are some ideas to get you started:
 

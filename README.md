@@ -2,9 +2,9 @@
 
 ### About Me 👨‍💻
 
-- I Am Studying Computer Engineering At Ahvaz Azad University 👨‍🎓
-- I Am Learning Ui , Ux 🕵️
-- Coding And Gym Are My Hoppy :)) 💙
+- 👨‍🎓 I Am Studying Computer Engineering At Ahvaz Azad University 
+- 🕵️ I Am Learning Ui , Ux 
+- 💙 Coding And Gym Are My Hoppy :)) 
 
 Here are some ideas to get you started:
 

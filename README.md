@@ -18,7 +18,7 @@
   <img align="center" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
   <img align="center" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
   <img align="center" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
-  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
+  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 - 🔧 Framework &nbsp;
   <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>

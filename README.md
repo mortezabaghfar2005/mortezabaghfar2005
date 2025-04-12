@@ -11,6 +11,9 @@
 
 ### ⚙️ Tech Stack
 
+- 📚 Education
+  <img align="center" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"/>
+
 - 🌐 Programming Language &nbsp;
   <img align="center" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
   <img align="center" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/>

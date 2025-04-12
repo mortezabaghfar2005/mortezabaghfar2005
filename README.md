@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://instagram.com/morteza.offical.20/">
-    <img src="https://img.shields.io/badge/Instagram-@mortezabaghfar2005-red?style=flat&logo=instagram-red" />
+    <img src="https://img.shields.io/badge/Instagram-@mortezabaghfar2005-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/mortezabaghfar/">
     <img src="https://img.shields.io/badge/Telegram-@mortezabaghfar2005-blue?style=flat&logo=telegram" />

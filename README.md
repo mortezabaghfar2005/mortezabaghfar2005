@@ -49,6 +49,6 @@
     <img src="https://github.com/mortezabaghfar2005/mortezabaghfar2005/blob/main/telegrom.png?raw=true" width="32" height="32" />
   </a>
   <a href="https://linkedin.com/mortezabaghfar/">
-    <img src="https://github.com/mortezabaghfar2005/mortezabaghfar2005/blob/main/download.png?raw=true" />
+    <img src="https://github.com/mortezabaghfar2005/mortezabaghfar2005/blob/main/download.png?raw=true" width="32" height="32" />
   </a>
 </p>

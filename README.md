@@ -32,4 +32,10 @@
   <img align="center" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
 <br>
 
+##⚡️ &nbsp; Github Stats
+<a href="https://github.com/mortezabaghfar2005">
+  <img src="https://github-readme-stats.vercel.app/api?username=mortezabaghfar2005&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezabaghfar2005" />
+</a>
+
 

@@ -26,3 +26,10 @@
 
 - 💻 Tools &nbsp;
 <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+
+- 🙋‍♂️ Activity &nbsp;
+  <img align="center" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
+  <img align="center" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
+
+
+

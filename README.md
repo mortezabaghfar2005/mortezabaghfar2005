@@ -51,6 +51,6 @@
     <img src="https://img.shields.io/badge/Telegram-@mortezabaghfar2005-blue?style=flat&logo=telegram" />
   </a>
   <a href="https://linkedin.com/mortezabaghfar/">
-    <img src="https://img.shields.io/badge/linkedin-@MortezaBaghfar-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-MortezaBaghfar-blue?style=flat&logo=linkedin" />
   </a>
 </p>

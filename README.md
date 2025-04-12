@@ -3,6 +3,7 @@
 ### About Me 👨‍💻
 
 - I Am Studying Computer Engineering At Ahvaz Azad University 👨‍🎓
+- I Am Learning 🕵️
 
 Here are some ideas to get you started:
 

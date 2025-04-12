@@ -50,4 +50,7 @@
   <a href="https://t.me/mortezabaghfar/">
     <img src="https://img.shields.io/badge/Telegram-@mortezabaghfar2005?style=flat&logo=telegram" />
   </a>
+  <a href="https://linkedin.com/mortezabaghfar/">
+    <img src="https://img.shields.io/badge/linkedin-@MortezaBaghfar?style=flat&logo=linkedin" />
+  </a>
 </p>
